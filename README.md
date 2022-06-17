@@ -2,9 +2,9 @@
 
 ✨ Tecnologias Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-React
-Styled-Components
-Hooks
+React |
+Styled-Components |
+Hooks |
 
 💻 Projeto que clona o site Getninjas, consumindo API, fazendo todas funcionalidades do site de origem. Projeto feito todo em React, com Hooks, Styled-Components.
 
